@@ -173,4 +173,19 @@ R |O |M |A
 
 (4 caracteres)
 
-## Somatório dos números
+### Somatório dos números
+
+```
+s = 0                                                        # s -> somatório
+for c in range(0, 4):                                        # de 0 a 4 (0, 1, 2, 3)
+    n = int(input("Digite um valor: '))
+    s += n                                                   # s = s + n
+print("O somatório de todos os valores foi {}".format(s))
+*EXECUTANDO*
+Digite um valor: 4
+Digite um valor: 2
+Digite um valor: 3
+Digite um valor: 1
+O somatório de todos os valores foi 10 
+```
+Ele somou s = s + n (s = 0 + 4 = 4 -> s = 4 + 2 = 6 -> s = 6 + 3 = 9 -> s = 9 + 1 = 10)
