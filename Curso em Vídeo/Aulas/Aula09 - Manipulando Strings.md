@@ -155,3 +155,9 @@ Começa no 9 e vai até o final, pulando de 3 em 3.
 
 ## **-> OUTROS EXEMPLOS**
 
+```
+frase = "Curso em Vídeo Python"
+print(frase[::-1])
+*EXECUTAR*
+nohtyP oedíV me osruC
+```
