@@ -11,6 +11,7 @@ n_h_velho = ""             #Nome_homem_velho
 h_velho = 0                #Homem_velho
 m_men_20 = 0               #Mulher_menor_20anos
 soma_idade = 0
+media = soma_idade / 4
 
 for c in range(1, 5):
     print("----- {}ª PESSOA -----".format(c))
@@ -19,7 +20,6 @@ for c in range(1, 5):
     sexo = (input("Sexo [M/F]: ".format(c))).lower().strip()
 
     soma_idade += + idade
-    media_idade = soma_idade / 4
 
     if sexo == "f" and idade < 20:
         m_men_20 += 1
@@ -28,7 +28,6 @@ for c in range(1, 5):
             h_velho = idade
             n_h_velho = nome
 
-print("\nA média de idade do grupo é de {:.1f} anos.".format(media_idade))
+print("\nA média de idade do grupo é de {:.1f} anos.".format(media))
 print("O homem com idade mais velha tem {} anos e seu nome é {}.".format(h_velho, n_h_velho))
 print("Há {:.0f} mulheres com menos de 20 anos.".format(m_men_20))
-
