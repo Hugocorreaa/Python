@@ -150,7 +150,7 @@ Nesse caso o -1 define a iteração.
 4.for c in range(len(junto) - 1, -1, -1):
 5.    print(junto[c], end="") 
 ```
-A linha 1 e 2 tiram os espaços da frase e a junta (Melhor entendendimento na ![AULA 9 - Manipulação de strings](https://github.com/Hugocorreaa/Python/blob/master/Curso%20em%20V%C3%ADdeo/Aulas/Aula%2009%20-%20Manipulando%20Strings.md)
+A linha 1 e 2 tiram os espaços da frase e a junta (Melhor entendendimento na [AULA 9 - Manipulação de strings](https://github.com/Hugocorreaa/Python/blob/master/Curso%20em%20V%C3%ADdeo/Aulas/Aula%2009%20-%20Manipulando%20Strings.md)
 A linha 4 define que o tamanho da variável ```junto``` 
 
 
