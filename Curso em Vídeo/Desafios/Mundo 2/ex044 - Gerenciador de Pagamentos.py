@@ -17,7 +17,7 @@ print("""Qual a forma de pagamento?
 pag = int(input("Sua opção: "))
 if pag == 1:
     descont = valor - (valor * 10 // 100)
-    print("""Com pagamento em dinheiro ou cheque você tem 10% de desconto."
+    print("""Com pagamento em dinheiro ou cheque você tem 10% de desconto.
 Valor com desconto: R${:.2f} reais""".format(descont))
 elif pag == 2:
     descont = valor - (valor * 5 // 100)
