@@ -58,7 +58,10 @@ Uma lista de string é imutável, porém é possivel mudar a partir de métodos.
 
 **Exemplo:**
 
-`frase.split()`
+```
+frase = "Curso em Vídeo Python"
+frase.split()
+```
 
 -- |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | --
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
