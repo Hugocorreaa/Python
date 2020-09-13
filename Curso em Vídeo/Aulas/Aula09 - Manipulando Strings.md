@@ -54,7 +54,7 @@ Uma lista de string é imutável, porém é possivel mudar a partir de métodos.
 
 -- |   |   | --
 ---|---|---| --
--> | frase.split()                    |Irá dividir e listar cada string a partir do espaço
+-> | frase.split()                    |Irá dividir e listar cada string a partir do espaço.
 
 **Exemplo:**
 
@@ -121,7 +121,7 @@ print(frase[9:21:2])
 *EXECUTAR*
 VdoPto            
 ```
-Começará no 9, vai até o 21, pulando de 2 em 2
+Começará no 9, vai até o 21, pulando de 2 em 2.
 ***
 
 **Ex5.**
