@@ -78,16 +78,20 @@ Uma lista de string é imutável, porém é possivel mudar a partir de métodos.
 ---|---|---| --
 -- |"-".join(frase)                   | Irá juntar as strings listadas separadas por "-"
 
-(Curso-em-Vídeo-Python)
-
-
+**Exemplo:**
+```
+frase = "Curso em Vídeo Python"
+frase.split()
+"-".join(frase) 
+Curso-em-Vídeo-Python
+```
 
 
 ### - Fatiamento
 
 **Ex1.**
 ```
-frase = Curso em Vídeo Python
+frase = "Curso em Vídeo Python"
 print(frase[9])
 *EXECUTAR*
 V
@@ -98,7 +102,7 @@ Irá mostrar a 10ª letra ou 9º caracter.
 
 **Ex2.**
 ```
-frase = Curso em Vídeo Python
+frase = "Curso em Vídeo Python"
 print(frase[9:13])
 *EXECUTAR*
 Víde            
@@ -108,7 +112,7 @@ Começará do 9º e irá até o 12º. O ultimo número, no caso 13, é sempre de
 
 **Ex3.**
 ```
-frase = Curso em Vídeo Python
+frase = "Curso em Vídeo Python"
 print(frase[9:21])
 *EXECUTAR*
 Vídeo Python
@@ -117,7 +121,7 @@ Vídeo Python
 
 **Ex4.**
 ```
-frase = Curso em Vídeo Python
+frase = "Curso em Vídeo Python"
 print(frase[9:21:2])
 *EXECUTAR*
 VdoPto            
@@ -127,7 +131,7 @@ Começará no 9, vai até o 21, pulando de 2 em 2.
 
 **Ex5.**
 ```
-frase = Curso em Vídeo Python
+frase = "Curso em Vídeo Python"
 print(frase[:5])
 *EXECUTAR*
 Curso            
@@ -137,7 +141,7 @@ Quando o primeiro é omitido, ele sempre partirá da origem até onde é pedido,
 ***
 **Ex6.**
 ```
-frase = Curso em Vídeo Python
+frase = "Curso em Vídeo Python"
 print(frase[15:])
 *EXECUTAR*
 Python
@@ -147,6 +151,7 @@ Quando o segundo é omitido, ele partirá de onde é pedido, no caso 15, até o 
 
 **Ex7.**
 ```
+frase = "Curso em Vídeo Python"
 print(frase[9::3])
 *EXECUTAR*
 VePh
