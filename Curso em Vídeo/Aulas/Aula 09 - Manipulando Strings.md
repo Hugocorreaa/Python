@@ -33,7 +33,7 @@ Os exemplos estão na funcinalidade de Fatiamento.
 -> |frase.count("o")        |Conta quantas vezes aparece o "o" minúsculo.   |(3)
 -> |frase.count("o", 0, 13) |Contagem com fatiamento.                       |(1)
 -> |frase.find("deo")       |Vai procurar onde começa a string "deo".       |(11)
--> |Curso" in frase         |Dentro de frase existe a string "Curso"?       |(True)
+-> |"Curso" in frase         |Dentro de frase existe a string "Curso"?       |(True)
 
 
 ### - Transformação
