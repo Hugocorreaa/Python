@@ -76,7 +76,8 @@ Uma lista de string é imutável, porém é possivel mudar a partir de métodos.
 
 -- |   |   | --
 ---|---|---| --
--> |"-".join(frase)                   | Irá juntar as strings listadas separadas por "-"
+-- |"-".join(frase)                   | Irá juntar as strings listadas separadas por "-"
+
 (Curso-em-Vídeo-Python)
 
 
