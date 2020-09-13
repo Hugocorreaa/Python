@@ -149,10 +149,20 @@ Nesse caso o -1 define a iteração.
 3.
 4.for c in range(len(junto) - 1, -1, -1):
 5.    print(junto[c], end="") 
+6.*EXECUTAR*
+7.Digite: roma
+8.AMOR
+9.
+
 ```
 A linha 1 e 2 tiram os espaços da frase e a junta (Melhor entendendimento na [AULA 9 - Manipulação de strings](https://github.com/Hugocorreaa/Python/blob/master/Curso%20em%20V%C3%ADdeo/Aulas/Aula%2009%20-%20Manipulando%20Strings.md)
-A linha 4 define que o tamanho da variável ```junto``` 
 
+A linha 4 define que a partir do último caracter da variável ```junto```, que seria 3, já que
+
+--|  |  |--
+--|--|--|--
+R |O |M |A
+0 |1 |2 |3
 
 
 ## Somatório dos números
