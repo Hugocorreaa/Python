@@ -188,4 +188,4 @@ Digite um valor: 3
 Digite um valor: 1
 O somatório de todos os valores foi 10 
 ```
-Ele somou s = s + n (s = 0 + 4 = 4 -> s = 4 + 2 = 6 -> s = 6 + 3 = 9 -> s = 9 + 1 = 10)
+Ele somou s = s + n (s = 0 + 4 = 4 **->** s = 4 + 2 = 6 **->** s = 6 + 3 = 9 **->** s = 9 + 1 = 10)
