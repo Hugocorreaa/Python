@@ -11,40 +11,36 @@ print('-=-' * 12)
 
 from random import randint
 
-
-cont = 0
+cont = vitoria = 0
 while True:
     num = int(input('Digite um valor: '))
-    escolha = input('Par ou Ímpar? [P/I] ').strip().lower()[0]
-    print('-' * 55)
 
-    rand = randint(1, 10)
+    # Jogada do computador:
+    rand = randint(0, 10)
+
+    # Variáveis
     soma = num + rand
-    cont += 1
 
-    if soma % 2 == 0 and escolha == "p":
-        print(f'Você jogou {num} e o computador {rand}. Total de {soma}. DEU PAR')
+    escolha = ' '
+    while escolha not in 'pi':
+        escolha = input('Par ou Ímpar? [P/I] ').strip().lower()[0]
+        print(f'Você jogou {num} e o computador {rand}. Total de {soma}.', end=' ')
+        print('DEU PAR!' if soma % 2 == 0 else 'DEU ÍMPAR!')
         print('-' * 55)
-        print('Você VENCEU!')
-        print('Vamos jogar novamente...')
-        print(('-=-' * 12))
-    elif soma % 2 == 0 and escolha == "i":
-        print(f'Você jogou {num} e o computador {rand}. Total de {soma}. DEU PAR')
-        print('-' * 55)
-        print('Você PERDEU!!')
-        print('-=-' * 12)
-        print(f'GAME OVER! Você venceu {cont} vezes')
-        break
-    elif soma % 2 != 0 and escolha == "i":
-        print(f'Você jogou {num} e o computador {rand}. Total de {soma}. DEU ÍMPAR')
-        print('-' * 55)
-        print('Você VENCEU!')
-        print('Vamos jogar novamente...')
-        print(('-=-' * 12))
-    elif soma % 2 != 0 and escolha == "p":
-        print(f'Você jogou {num} e o computador {rand}. Total de {soma}. DEU ÍMPAR')
-        print('-' * 55)
-        print('Você PERDEU!!')
-        print('-=-' * 12)
-        print(f'GAME OVER! Você venceu {cont} vezes.')
-        break
+    if escolha == 'p':
+        if soma % 2 == 0:
+            print('Você VENCEU!')
+            vitoria += 1
+        else:
+            print('Você PERDEU!')
+            break
+    elif escolha == 'i':
+        if soma % 2 == 1:
+            print('Você VENCEU!')
+            vitoria += 1
+        else:
+            print('Você PERDEU!')
+            break
+    print('Vamos jogar novamente...')
+    print('-=-' * 12)
+print(f'GAME OVER! Você venceu {vitoria} vezes.')

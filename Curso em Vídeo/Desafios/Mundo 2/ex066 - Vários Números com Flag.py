@@ -6,8 +6,8 @@ foram digitados e qual foi a soma entre eles (desconsiderando o flag).
 
 '''
 
-cont = 1
-soma = 0
+cont = soma = 0
+
 while True:
     num = int(input('Digite um valor [999 para parar]: '))
     if num == 999:
