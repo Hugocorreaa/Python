@@ -25,6 +25,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,51 +45,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex068 - Jogo do Par ou Ímpar">
-    <configuration name="ex066 - Vários Números com Flag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex066 - Vários Números com Flag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex067 - Tabuada v3.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex067 - Tabuada v3.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.teste">
     <configuration name="ex068 - Jogo do Par ou Ímpar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +69,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex069 - Análise de Dados do Grupo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex069 - Análise de Dados do Grupo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex070 - Estatísticas em Produtos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex070 - Estatísticas em Produtos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex071 - Simulador de Caixa Eletrônico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex071 - Simulador de Caixa Eletrônico.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.ex071 - Simulador de Caixa Eletrônico" />
+        <item itemvalue="Python.ex070 - Estatísticas em Produtos" />
+        <item itemvalue="Python.ex069 - Análise de Dados do Grupo" />
         <item itemvalue="Python.ex068 - Jogo do Par ou Ímpar" />
-        <item itemvalue="Python.ex066 - Vários Números com Flag" />
-        <item itemvalue="Python.ex067 - Tabuada v3.0" />
       </list>
     </recent_temporary>
   </component>
@@ -133,39 +184,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600727726190">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1600727726190" />
-    <state x="831" y="148" key="FileChooserDialogImpl" timestamp="1600729000390">
+    <state x="831" y="148" key="FileChooserDialogImpl" timestamp="1600732284777">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600729000390" />
-    <state width="1515" height="176" key="GridCell.Tab.0.bottom" timestamp="1600731860569">
+    <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600732284777" />
+    <state width="745" height="175" key="GridCell.Tab.0.bottom" timestamp="1600741583401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600731860569" />
-    <state width="1515" height="176" key="GridCell.Tab.0.center" timestamp="1600731860569">
+    <state width="745" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
+    <state width="745" height="175" key="GridCell.Tab.0.center" timestamp="1600741583401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600731860569" />
-    <state width="1515" height="176" key="GridCell.Tab.0.left" timestamp="1600731860569">
+    <state width="745" height="175" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
+    <state width="745" height="175" key="GridCell.Tab.0.left" timestamp="1600741583401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600731860569" />
-    <state width="1515" height="176" key="GridCell.Tab.0.right" timestamp="1600731860569">
+    <state width="745" height="175" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
+    <state width="745" height="175" key="GridCell.Tab.0.right" timestamp="1600741583401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600731860569" />
-    <state x="555" y="38" key="SettingsEditor" timestamp="1600730364562">
+    <state width="745" height="175" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
+    <state x="555" y="38" key="SettingsEditor" timestamp="1600732228440">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="555" y="38" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600730364562" />
-    <state x="971" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600731844980">
+    <state x="555" y="38" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600732228440" />
+    <state x="971" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600732243745">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="971" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1600731844980" />
+    <state x="971" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1600732243745" />
+    <state x="815" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1600739020478">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="815" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600739020478" />
   </component>
 </project>
