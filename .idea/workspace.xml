@@ -47,7 +47,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.teste">
+  <component name="RunManager" selected="Python.ex070 - Estatísticas em Produtos">
     <configuration name="ex068 - Jogo do Par ou Ímpar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.teste" />
-        <item itemvalue="Python.ex071 - Simulador de Caixa Eletrônico" />
         <item itemvalue="Python.ex070 - Estatísticas em Produtos" />
-        <item itemvalue="Python.ex069 - Análise de Dados do Grupo" />
         <item itemvalue="Python.ex068 - Jogo do Par ou Ímpar" />
+        <item itemvalue="Python.ex071 - Simulador de Caixa Eletrônico" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.ex069 - Análise de Dados do Grupo" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +195,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600732284777" />
-    <state width="745" height="175" key="GridCell.Tab.0.bottom" timestamp="1600741583401">
+    <state width="1515" height="153" key="GridCell.Tab.0.bottom" timestamp="1600808091110">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
-    <state width="745" height="175" key="GridCell.Tab.0.center" timestamp="1600741583401">
+    <state width="1515" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600808091110" />
+    <state width="1515" height="153" key="GridCell.Tab.0.center" timestamp="1600808091110">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="175" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
-    <state width="745" height="175" key="GridCell.Tab.0.left" timestamp="1600741583401">
+    <state width="1515" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600808091110" />
+    <state width="1515" height="153" key="GridCell.Tab.0.left" timestamp="1600808091109">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="175" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
-    <state width="745" height="175" key="GridCell.Tab.0.right" timestamp="1600741583401">
+    <state width="1515" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600808091109" />
+    <state width="1515" height="153" key="GridCell.Tab.0.right" timestamp="1600808091110">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="175" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600741583401" />
+    <state width="1515" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600808091110" />
     <state x="555" y="38" key="SettingsEditor" timestamp="1600732228440">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
