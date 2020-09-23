@@ -47,7 +47,28 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex070 - Estatísticas em Produtos">
+  <component name="RunManager" selected="Python.Aula16">
+    <configuration name="Aula16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex068 - Jogo do Par ou Ímpar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,27 +82,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex068 - Jogo do Par ou Ímpar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex069 - Análise de Dados do Grupo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex069 - Análise de Dados do Grupo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula16" />
         <item itemvalue="Python.ex070 - Estatísticas em Produtos" />
         <item itemvalue="Python.ex068 - Jogo do Par ou Ímpar" />
         <item itemvalue="Python.ex071 - Simulador de Caixa Eletrônico" />
         <item itemvalue="Python.teste" />
-        <item itemvalue="Python.ex069 - Análise de Dados do Grupo" />
       </list>
     </recent_temporary>
   </component>
@@ -195,26 +195,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600732284777" />
-    <state width="1515" height="153" key="GridCell.Tab.0.bottom" timestamp="1600808091110">
+    <state width="1515" height="152" key="GridCell.Tab.0.bottom" timestamp="1600901177010">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600808091110" />
-    <state width="1515" height="153" key="GridCell.Tab.0.center" timestamp="1600808091110">
+    <state width="1515" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600901177010" />
+    <state width="1515" height="152" key="GridCell.Tab.0.center" timestamp="1600901177010">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600808091110" />
-    <state width="1515" height="153" key="GridCell.Tab.0.left" timestamp="1600808091109">
+    <state width="1515" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600901177010" />
+    <state width="1515" height="152" key="GridCell.Tab.0.left" timestamp="1600901177010">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600808091109" />
-    <state width="1515" height="153" key="GridCell.Tab.0.right" timestamp="1600808091110">
+    <state width="1515" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600901177010" />
+    <state width="1515" height="152" key="GridCell.Tab.0.right" timestamp="1600901177010">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600808091110" />
-    <state x="555" y="38" key="SettingsEditor" timestamp="1600732228440">
+    <state width="1515" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600901177010" />
+    <state x="555" y="38" key="SettingsEditor" timestamp="1600897622466">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="555" y="38" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600732228440" />
+    <state x="555" y="38" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600897622466" />
     <state x="971" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600732243745">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
