@@ -98,7 +98,7 @@ for pos, comida in enumerate(lanche):
                         # Eu vou comer Batata Frita na posição 4ª
 
 
-Ex8.
+Ex8. Ordem Alfabética
 
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
 print(sorted(lanche))
