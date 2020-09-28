@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c51111a-a4eb-451b-9ed8-bbe99bd6755f" name="Default Changelist" comment="" />
+    <list default="true" id="0c51111a-a4eb-451b-9ed8-bbe99bd6755f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex075.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex075 - Análise de Dados em Uma Tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex076 - Lista de Preços com Tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex077.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex077 - Contando Vogais em Tupla.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,91 +52,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex074">
-    <configuration name="Aula16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Aulas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex072 - Número por Extenso (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex072 - Número por Extenso.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex072 - Número por Extenso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hugo\Documents\GitHub\Python\Curso em Vídeo\Desafios\Mundo 3\ex072 - Número por Extenso.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex073.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex077 - Contando Vogais em Tupla (1)">
     <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +74,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex075 - Análise de Dados em Uma Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex075 - Análise de Dados em Uma Tupla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex076 - Lista de Preços com Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex076 - Lista de Preços com Tupla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex077 - Contando Vogais em Tupla (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex077 - Contando Vogais em Tupla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex077 - Contando Vogais em Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hugo\Documents\GitHub\Python\Curso em Vídeo\Desafios\Mundo 3\ex077 - Contando Vogais em Tupla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex077 - Contando Vogais em Tupla (1)" />
+        <item itemvalue="Python.ex077 - Contando Vogais em Tupla" />
+        <item itemvalue="Python.ex076 - Lista de Preços com Tupla" />
+        <item itemvalue="Python.ex075 - Análise de Dados em Uma Tupla" />
         <item itemvalue="Python.ex074" />
-        <item itemvalue="Python.ex073" />
-        <item itemvalue="Python.ex072 - Número por Extenso (1)" />
-        <item itemvalue="Python.ex072 - Número por Extenso" />
-        <item itemvalue="Python.Aula16" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +200,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600732284777" />
-    <state width="745" height="192" key="GridCell.Tab.0.bottom" timestamp="1600909295458">
+    <state width="745" height="184" key="GridCell.Tab.0.bottom" timestamp="1601332192654">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="192" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600909295458" />
-    <state width="745" height="192" key="GridCell.Tab.0.center" timestamp="1600909295458">
+    <state width="745" height="184" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601332192654" />
+    <state width="745" height="184" key="GridCell.Tab.0.center" timestamp="1601332192653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="192" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600909295458" />
-    <state width="745" height="192" key="GridCell.Tab.0.left" timestamp="1600909295458">
+    <state width="745" height="184" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601332192653" />
+    <state width="745" height="184" key="GridCell.Tab.0.left" timestamp="1601332192653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="192" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600909295458" />
-    <state width="745" height="192" key="GridCell.Tab.0.right" timestamp="1600909295458">
+    <state width="745" height="184" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601332192653" />
+    <state width="745" height="184" key="GridCell.Tab.0.right" timestamp="1601332192653">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="192" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600909295458" />
+    <state width="745" height="184" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601332192653" />
     <state x="555" y="38" key="SettingsEditor" timestamp="1600897622466">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
