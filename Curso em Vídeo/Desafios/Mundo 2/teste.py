@@ -1,1 +1,10 @@
-from random import rand
+termo = int(input('Primeiro termo: '))
+razao = int(input('Razão: '))
+controle = 1
+maistermo = 10
+while maistermo != 0:
+    while controle <= maistermo:
+        print(termo, end=' ')
+        termo += razao
+        controle += 1
+    maistermo = int(input('Mais termos? '))

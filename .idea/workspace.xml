@@ -19,11 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c51111a-a4eb-451b-9ed8-bbe99bd6755f" name="Default Changelist" comment="">
+    <list default="true" id="0c51111a-a4eb-451b-9ed8-bbe99bd6755f" name="Default Changelist" comment="up">
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 17 - Listas (Parte 1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex078 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex081 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 -.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex075.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex075 - Análise de Dados em Uma Tupla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex076 - Lista de Preços com Tupla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex077.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex077 - Contando Vogais em Tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Aulas/AULA 15 - Interrompendo Repedições While.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 15 - Interrompendo Repedições While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 16 - Tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +55,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex077 - Contando Vogais em Tupla (1)">
-    <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hugo\Documents\GitHub\Python\Curso em Vídeo\Desafios\Mundo 3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Aula 17 - Listas (Parte 1)">
+    <configuration name="Aula 17 - Listas (Parte 1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 17 - Listas (Parte 1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex075 - Análise de Dados em Uma Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062 - Super Progressão Aritmética" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,32 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex075 - Análise de Dados em Uma Tupla.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex076 - Lista de Preços com Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex076 - Lista de Preços com Tupla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/ex062 - Super Progressão Aritmética.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +149,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 2/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula 17 - Listas (Parte 1)" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.ex062 - Super Progressão Aritmética" />
         <item itemvalue="Python.ex077 - Contando Vogais em Tupla (1)" />
         <item itemvalue="Python.ex077 - Contando Vogais em Tupla" />
-        <item itemvalue="Python.ex076 - Lista de Preços com Tupla" />
-        <item itemvalue="Python.ex075 - Análise de Dados em Uma Tupla" />
-        <item itemvalue="Python.ex074" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +189,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600727285838</updated>
     </task>
+    <task id="LOCAL-00001" summary="up">
+      <created>1601333583498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601333583498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +211,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600727726190">
       <screen x="0" y="0" width="1536" height="834" />
@@ -200,26 +224,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600732284777" />
-    <state width="745" height="184" key="GridCell.Tab.0.bottom" timestamp="1601332192654">
+    <state width="745" height="197" key="GridCell.Tab.0.bottom" timestamp="1601514876492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="184" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601332192654" />
-    <state width="745" height="184" key="GridCell.Tab.0.center" timestamp="1601332192653">
+    <state width="745" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601514876492" />
+    <state width="745" height="197" key="GridCell.Tab.0.center" timestamp="1601514876492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="184" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601332192653" />
-    <state width="745" height="184" key="GridCell.Tab.0.left" timestamp="1601332192653">
+    <state width="745" height="197" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601514876492" />
+    <state width="745" height="197" key="GridCell.Tab.0.left" timestamp="1601514876492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="184" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601332192653" />
-    <state width="745" height="184" key="GridCell.Tab.0.right" timestamp="1601332192653">
+    <state width="745" height="197" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601514876492" />
+    <state width="745" height="197" key="GridCell.Tab.0.right" timestamp="1601514876492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="745" height="184" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601332192653" />
+    <state width="745" height="197" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601514876492" />
     <state x="555" y="38" key="SettingsEditor" timestamp="1600897622466">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="555" y="38" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600897622466" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1601333597415">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1601333597415" />
     <state x="971" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600732243745">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
