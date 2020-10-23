@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c51111a-a4eb-451b-9ed8-bbe99bd6755f" name="Default Changelist" comment="up">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex078 - Maior e Menor Valores na Lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 18 - Listas (Parte 2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 - Validando Expressões Matemáticas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex078 -.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 -.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 - Valores Únicos em uma Lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -  Lista Ordenada Sem Repetições.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex081 -.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex081 -  Extraindo Dados de uma Lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 -.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 - Dividindo Valores em Várias Listas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 -.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 -.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 - Valores Únicos em uma Lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 - Valores Únicos em uma Lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -  Lista Ordenada Sem Repetições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -  Lista Ordenada Sem Repetições.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 - Dividindo Valores em Várias Listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 - Dividindo Valores em Várias Listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 -.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +60,8 @@
       <recent name="C:\Users\Hugo\Documents\GitHub\Python\Curso em Vídeo\Desafios\Mundo 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex082 - Dividindo Valores em Várias Listas">
-    <configuration name="ex078 - Maior e Menor Valores na Lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula 18 - Listas (Parte 2)">
+    <configuration name="Aula 18 - Listas (Parte 2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hugo\Documents\GitHub\Python\Curso em Vídeo\Desafios\Mundo 3\ex078 - Maior e Menor Valores na Lista.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 18 - Listas (Parte 2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,27 +124,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex081 -  Extraindo Dados de uma Lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex081 -  Extraindo Dados de uma Lista.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ex082 - Dividindo Valores em Várias Listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,13 +145,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex083 - Validando Expressões Matemáticas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hugo\Documents\GitHub\Python\Curso em Vídeo\Desafios\Mundo 3\ex083 - Validando Expressões Matemáticas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula 18 - Listas (Parte 2)" />
+        <item itemvalue="Python.ex083 - Validando Expressões Matemáticas" />
         <item itemvalue="Python.ex082 - Dividindo Valores em Várias Listas" />
-        <item itemvalue="Python.ex081 -  Extraindo Dados de uma Lista" />
         <item itemvalue="Python.ex080 -  Lista Ordenada Sem Repetições" />
         <item itemvalue="Python.ex079 - Valores Únicos em uma Lista" />
-        <item itemvalue="Python.ex078 - Maior e Menor Valores na Lista" />
       </list>
     </recent_temporary>
   </component>
@@ -228,22 +227,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="831" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600732284777" />
-    <state width="1515" height="196" key="GridCell.Tab.0.bottom" timestamp="1601796246837">
+    <state width="747" height="210" key="GridCell.Tab.0.bottom" timestamp="1603406696380">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="196" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601796246837" />
-    <state width="1515" height="196" key="GridCell.Tab.0.center" timestamp="1601796246837">
+    <state width="747" height="210" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603406696380" />
+    <state width="747" height="210" key="GridCell.Tab.0.center" timestamp="1603406696380">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="196" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601796246837" />
-    <state width="1515" height="196" key="GridCell.Tab.0.left" timestamp="1601796246837">
+    <state width="747" height="210" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603406696380" />
+    <state width="747" height="210" key="GridCell.Tab.0.left" timestamp="1603406696380">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="196" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601796246837" />
-    <state width="1515" height="196" key="GridCell.Tab.0.right" timestamp="1601796246837">
+    <state width="747" height="210" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603406696380" />
+    <state width="747" height="210" key="GridCell.Tab.0.right" timestamp="1603406696380">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="196" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601796246837" />
+    <state width="747" height="210" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603406696380" />
     <state x="555" y="38" key="SettingsEditor" timestamp="1600897622466">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

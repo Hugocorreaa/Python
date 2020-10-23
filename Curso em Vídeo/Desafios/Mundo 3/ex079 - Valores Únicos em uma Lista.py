@@ -20,4 +20,4 @@ while True:
     continuar = str(input('Quer continuar? [S/N] ')).lower().strip()[0]
     if continuar == 'n':
         break
-print(sorted(valores))
+print(f'Você digitou os valores {sorted(valores)}')
