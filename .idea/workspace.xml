@@ -20,13 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c51111a-a4eb-451b-9ed8-bbe99bd6755f" name="Default Changelist" comment="up">
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 18 - Listas (Parte 2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 - Validando Expressões Matemáticas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex84 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex85 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex86 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex87 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex88 -.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex89 -.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 - Valores Únicos em uma Lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex079 - Valores Únicos em uma Lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -  Lista Ordenada Sem Repetições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex080 -  Lista Ordenada Sem Repetições.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 - Dividindo Valores em Várias Listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex082 - Dividindo Valores em Várias Listas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Desafios/Mundo 3/ex083 -.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso em Vídeo/Aulas/Aula 18 - Listas (Parte 2).py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hq8UPm6srpgx6xzo1gxlUZkTD7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
